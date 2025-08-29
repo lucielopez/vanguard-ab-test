@@ -1,7 +1,6 @@
-# vanguard-ab-test
+**Vanguard A/B Test**
 Project 5 
 
-**Vanguard A/B Test**
 
 Project Overview
 This project analyzes the impact of a new digital interface (UI) for Vanguard customers using A/B testing.
